@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+
+{% block stylesheets %}
+    <link rel="stylesheet" href="/css/style.css">
+{% endblock %}
+
+{% block title %}Horloge France | {{ parent() }} {% endblock title %}
+
+{% block body %}
+<div class="flex-center full-height">
+    <div class="content">
+        <img class="flag" src="/img/flag.svg" alt="">
+        <h1 class="title">Hello from France</h1>
+
+
+        <p>🕥 Il est actuellement {{'now'|date('H:i', 'Europe/Paris')}} en France.</p>
+
+        <hr>
+
+        <p>&copy; Copyright 2020 - {{'now'|date('Y', 'Europe/Paris')}}</p>
+    </div>
+</div>
+{% endblock body %}
