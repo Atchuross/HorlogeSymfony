@@ -29,7 +29,7 @@ List of `awesome README Profile` categories mentioned below
 
 Link : https://infinite-woodland-76488.herokuapp.com/fr
 
-<a href="https://awesome-github-readme-profile.netlify.app"><img src="https://raw.githubusercontent.com/elangosundar/awesome-README-templates/master/awesome-github-profile.png" alt="Awesome README Templates" /></a>
+<img src="https://raw.githubusercontent.com/elangosundar/awesome-README-templates/master/awesome-github-profile.png" alt="Awesome README Templates" />
 
 
 ## Github README PROFILE CATEGORY
