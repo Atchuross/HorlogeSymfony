@@ -29,7 +29,7 @@ List of `awesome README Profile` categories mentioned below
 
 Link : https://infinite-woodland-76488.herokuapp.com/fr
 
-<img src="https://raw.githubusercontent.com/elangosundar/awesome-README-templates/master/awesome-github-profile.png" alt="Awesome README Templates" />
+<img src="https://github.com/Atchuross/HorlogeSymfony/blob/master/Capture.PNG?raw=true" alt="Awesome README Templates" />
 
 
 ## Github README PROFILE CATEGORY
