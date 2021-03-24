@@ -11,22 +11,9 @@
 <br>
 <p align="center"><i>Please visit my <a href="https://clement-clauzel.fr">Website</a></i></p>
 <br>
-This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
-
-If you are intersted, will create a PR for to add your `README` profile here.
-
-If you like this Repo, Please click the :star:
-
-List of `awesome README Profile` categories mentioned below
-
-## Contents
-  - [Github README PROFILE CATEGORY](#github-readme-profile-category)
-  - [List out `Awesome README Profile` Tools](#list-out-awesome-readme-profile-tools)
-  - [List out `Awesome README Profile` Articles](#list-out-awesome-readme-profile-articles)
-  - [Contribute](#contribute)
 
 ## Website
 
-Link : https://infinite-woodland-76488.herokuapp.com/fr
+Lien : https://infinite-woodland-76488.herokuapp.com/fr
 
 <img src="https://github.com/Atchuross/HorlogeSymfony/blob/master/Capture.PNG?raw=true" alt="Awesome README Templates" />
