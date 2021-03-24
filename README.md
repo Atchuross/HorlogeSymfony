@@ -12,7 +12,7 @@
 <p align="center"><i>Please visit my <a href="https://clement-clauzel.fr">Website</a></i></p>
 <br>
 
-## Website
+## Project website
 
 Lien : https://infinite-woodland-76488.herokuapp.com/fr
 
