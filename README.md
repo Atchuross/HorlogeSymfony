@@ -1,5 +1,5 @@
-<h1 align="center">Horloge PHP Symfony</h1>
-<p align="center"><i>Réaliser lors de l'apprentissage de Symfony</i></p>
+<h1 align="center">PHP Symfony Clock</h1>
+<p align="center"><i>Create when learning symfony framework</i></p>
 <div align="center">
 <!--  <a href="https://github.com/elangosundar/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
 <a href="https://github.com/elangosundar/awesome-README-templates/network/members"><img src="https://img.shields.io/github/forks/elangosundar/awesome-README-templates" alt="Forks Badge"/></a>
@@ -14,6 +14,6 @@
 
 ## Project website
 
-Lien : https://infinite-woodland-76488.herokuapp.com/fr
+Link : https://infinite-woodland-76488.herokuapp.com/fr
 
 <img src="https://github.com/Atchuross/HorlogeSymfony/blob/master/Capture.PNG?raw=true" alt="Awesome README Templates" />
